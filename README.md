@@ -12,7 +12,7 @@
 
 ## Projetos em destaque
 
-### ConsorTech — projeto em equipe
+### SystemX — projeto em equipe
 Plataforma desenvolvida em equipe com back-end Spring Boot e front-end React/TypeScript. Minhas contribuições incluem integrações com Gmail e Evolution e fluxos de assinatura com Stripe.
 
 [Repositório do back-end](https://github.com/SystemX-PI/Back-end) · [Repositório do front-end](https://github.com/SystemX-PI/Front-End)
